@@ -17,7 +17,7 @@ public class BookController {
     })
     @GetMapping
     public String hello(){
-        return "Hello Book Store Manager";
+        return "Hello Book Store Manager / Example pull request";
     }
 
 }
